@@ -58,8 +58,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marajanim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Maraj's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marajanim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Maraj's Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=marajanim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Maraj's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marajanim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Maraj's Top Languages" />
 </div>
 
 <div align="center">
