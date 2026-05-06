@@ -1,18 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Maraj!%20%E2%9C%A8&fontSize=50&animation=fadeIn&fontAlignY=38" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=250&section=header&text=Hi%20there,%20I'm%20Maraj!%20%E2%9C%A8&fontSize=55&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF" alt="Header" />
 </div>
-
-<h3 align="center">Full-Stack Web Developer & UI/UX Enthusiast</h3>
 
 <div align="center">
-  <p>Crafting pixel-perfect, modern web applications and robust WordPress plugins.</p>
+  <a href="https://github.com/marajanim">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+💻;Pixel-Perfect+UI%2FUX+Engineer+🎨;React+%26+Next.js+Specialist+⚛️;WordPress+Plugin+Creator+⚙️" alt="Typing SVG" />
+  </a>
 </div>
 
-<p align="center">
+<div align="center">
+  <p>Crafting modern web applications with seamless animations and robust backend architecture.</p>
+</div>
+
+<div align="center">
   <a href="https://github.com/marajanim">
-    <img src="https://komarev.com/ghpvc/?username=marajanim&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=marajanim&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
   </a>
-</p>
+</div>
 
 ---
 
