@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/marajanim">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Pixel-Perfect+UI%2FUX+Engineer;React+%26+Next.js+Specialist;WordPress+Plugin+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Pixel-Perfect+UI%2FUX+Engineer+%F0%9F%8E%A8;React+%26+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;WordPress+Web+Designer+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
 
