@@ -26,7 +26,6 @@
 - 💅 I focus heavily on **Pixel-Perfect UI, Glassmorphism, and Complex CSS Animations**
 - 🌱 I’m currently learning deeper **Backend Architecture & System Design**
 - 💬 Ask me about **Frontend Optimization, Responsive Design, and UI Engineering**
-- 📫 How to reach me: **[Insert your email or LinkedIn link here]**
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake Animation" />
