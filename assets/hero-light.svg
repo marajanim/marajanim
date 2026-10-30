@@ -3,9 +3,9 @@
   <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
   <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter>
   <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#7C3AED"/><stop offset="0.55" stop-color="#C026D3"/><stop offset="1" stop-color="#EC4899"/>
+    <stop offset="0" stop-color="#2F81F7"/><stop offset="0.6" stop-color="#26A641"/><stop offset="1" stop-color="#3FB950"/>
   </linearGradient>
-  <clipPath id="c"><rect width="1200" height="440" rx="20"/></clipPath>
+  <clipPath id="c"><rect width="1200" height="440" rx="12"/></clipPath>
 </defs>
 <style>
   .t{font-family:Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;}
@@ -25,36 +25,36 @@
   @keyframes pulse{50%{opacity:.25}}
 </style>
 <g clip-path="url(#c)">
-  <rect width="1200" height="440" fill="#FAFAF7"/>
-  <g filter="url(#blur)" opacity="0.75">
-    <circle class="b1" cx="820" cy="120" r="170" fill="#C4B5FD"/>
-    <circle class="b2" cx="1060" cy="260" r="150" fill="#F9A8D4"/>
-    <circle class="b3" cx="640" cy="300" r="120" fill="#A5B4FC"/>
+  <rect width="1200" height="440" fill="#FFFFFF"/>
+  <g filter="url(#blur)" opacity="0.9">
+    <circle class="b1" cx="820" cy="120" r="170" fill="#B6E3FF"/>
+    <circle class="b2" cx="1060" cy="260" r="150" fill="#ACEEBB"/>
+    <circle class="b3" cx="640" cy="300" r="120" fill="#DDF4FF"/>
   </g>
-  <rect width="1200" height="440" filter="url(#grain)" opacity="0.05"/>
+  <rect width="1200" height="440" filter="url(#grain)" opacity="0.04"/>
 
-  <g class="t rev" font-size="13" font-weight="600" letter-spacing="2.5" fill="#6B7280">
+  <g class="t rev" font-size="13" font-weight="600" letter-spacing="2.5" fill="#656D76">
     <text x="60" y="58">MARAJANIM — ©2026</text>
     <text x="1140" y="58" text-anchor="end">WEB DEVELOPER</text>
   </g>
-  <line x1="60" y1="80" x2="1140" y2="80" stroke="#E5E5E0"/>
+  <line x1="60" y1="80" x2="1140" y2="80" stroke="#D0D7DE"/>
 
-  <text class="t big rev d1" x="52" y="215" fill="#111114">Maraj</text>
+  <text class="t big rev d1" x="52" y="215" fill="#1F2328">Maraj</text>
   <text class="t big rev d2" x="52" y="345" fill="url(#g)">Anim.</text>
 
-  <g class="t rev d3" font-size="19" fill="#111114">
+  <g class="t rev d3" font-size="19" fill="#1F2328">
     <text x="760" y="268">I build websites and web apps</text>
     <text x="760" y="296">with React, Next.js and WordPress.</text>
   </g>
-  <g class="t rev d4" font-size="13" font-weight="600" letter-spacing="2" fill="#6B7280">
+  <g class="t rev d4" font-size="13" font-weight="600" letter-spacing="2" fill="#656D76">
     <text x="760" y="334">MARAJ.NET</text>
   </g>
 
-  <rect y="380" width="1200" height="60" fill="#F1F0EC"/>
-  <line x1="0" y1="380" x2="1200" y2="380" stroke="#E5E5E0"/>
+  <rect y="380" width="1200" height="60" fill="#F6F8FA"/>
+  <line x1="0" y1="380" x2="1200" y2="380" stroke="#D0D7DE"/>
   <g class="mq">
-    <text class="t" x="0" y="418" font-size="20" font-weight="600" fill="#111114" xml:space="preserve" textLength="2400" lengthAdjust="spacing">Next.js   /   React   /   Vite   /   TypeScript   /   JavaScript   /   WordPress   /   PHP   /   Node.js   /   HTML   /   CSS   /   Next.js   /   React   /   Vite   /   TypeScript   /   JavaScript   /   WordPress   /   PHP   /   Node.js   /   HTML   /   CSS   /   </text>
-    <text class="t" x="2400" y="418" font-size="20" font-weight="600" fill="#111114" xml:space="preserve" textLength="2400" lengthAdjust="spacing">Next.js   /   React   /   Vite   /   TypeScript   /   JavaScript   /   WordPress   /   PHP   /   Node.js   /   HTML   /   CSS   /   Next.js   /   React   /   Vite   /   TypeScript   /   JavaScript   /   WordPress   /   PHP   /   Node.js   /   HTML   /   CSS   /   </text>
+    <text class="t" x="0" y="418" font-size="20" font-weight="600" fill="#1F2328" xml:space="preserve" textLength="2400" lengthAdjust="spacing">Next.js   /   React   /   Vite   /   TypeScript   /   JavaScript   /   WordPress   /   PHP   /   Node.js   /   HTML   /   CSS   /   Next.js   /   React   /   Vite   /   TypeScript   /   JavaScript   /   WordPress   /   PHP   /   Node.js   /   HTML   /   CSS   /   </text>
+    <text class="t" x="2400" y="418" font-size="20" font-weight="600" fill="#1F2328" xml:space="preserve" textLength="2400" lengthAdjust="spacing">Next.js   /   React   /   Vite   /   TypeScript   /   JavaScript   /   WordPress   /   PHP   /   Node.js   /   HTML   /   CSS   /   Next.js   /   React   /   Vite   /   TypeScript   /   JavaScript   /   WordPress   /   PHP   /   Node.js   /   HTML   /   CSS   /   </text>
   </g>
 </g>
 </svg>

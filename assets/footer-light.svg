@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
-<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7C3AED"/><stop offset=".55" stop-color="#C026D3"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
-<clipPath id="c"><rect width="1200" height="150" rx="20"/></clipPath></defs>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2F81F7"/><stop offset=".6" stop-color="#26A641"/><stop offset="1" stop-color="#3FB950"/></linearGradient>
+<clipPath id="c"><rect width="1200" height="150" rx="12"/></clipPath></defs>
 <style>.t{font-family:Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif}</style>
-<g clip-path="url(#c)"><rect width="1200" height="150" fill="#FAFAF7"/>
-<text class="t" x="60" y="62" font-size="12" font-weight="600" letter-spacing="2.5" fill="#6B7280">CONTACT</text>
-<text class="t" x="60" y="112" font-size="48" font-weight="800" letter-spacing="-2" fill="#111114">maraj<tspan fill="url(#g)">.net</tspan></text>
-<text class="t" x="1140" y="112" text-anchor="end" font-size="16" font-weight="500" fill="#6B7280">linkedin.com/in/marajanim</text>
+<g clip-path="url(#c)"><rect width="1200" height="150" fill="#FFFFFF"/>
+<text class="t" x="60" y="62" font-size="12" font-weight="600" letter-spacing="2.5" fill="#656D76">CONTACT</text>
+<text class="t" x="60" y="112" font-size="48" font-weight="800" letter-spacing="-2" fill="#1F2328">maraj<tspan fill="url(#g)">.net</tspan></text>
+<text class="t" x="1140" y="112" text-anchor="end" font-size="16" font-weight="500" fill="#656D76">linkedin.com/in/marajanim</text>
 </g></svg>
