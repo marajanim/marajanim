@@ -65,12 +65,21 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=marajanim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Maraj's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marajanim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Maraj's Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=marajanim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=marajanim&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=8B5CF6&text_color=334155&ring_color=8B5CF6" alt="Maraj's GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marajanim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marajanim&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=8B5CF6&text_color=334155" alt="Maraj's Top Languages" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marajanim&theme=tokyonight&hide_border=true&background=0D1117" alt="Maraj's GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=marajanim&theme=tokyonight&hide_border=true&background=0D1117" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=marajanim&theme=default&hide_border=true&background=FFFFFF&ring=8B5CF6&fire=8B5CF6&currStreakLabel=7C3AED&currStreakNum=1E293B&sideNums=1E293B&sideLabels=334155&dates=64748B&stroke=CBD5E1" alt="Maraj's GitHub Streak" />
+  </picture>
 </div>
 
 ---
