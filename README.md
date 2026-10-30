@@ -37,10 +37,20 @@ const maraj = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,vite,js,ts,html,css,php,wordpress,nodejs,git,github,vscode,figma&theme=dark&perline=7" />
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,js,ts,html,css,php,wordpress,nodejs,git,github,vscode,figma&theme=light&perline=7" alt="Next.js, React, Vite, JavaScript, TypeScript, HTML, CSS, PHP, WordPress, Node.js, Git, GitHub, VS Code, Figma" />
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs&theme=dark" /><img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="48" height="48" alt="Next.js" title="Next.js" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark" /><img src="https://skillicons.dev/icons?i=react&theme=light" width="48" height="48" alt="React" title="React" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vite&theme=dark" /><img src="https://skillicons.dev/icons?i=vite&theme=light" width="48" height="48" alt="Vite" title="Vite" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark" /><img src="https://skillicons.dev/icons?i=js&theme=light" width="48" height="48" alt="JavaScript" title="JavaScript" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark" /><img src="https://skillicons.dev/icons?i=ts&theme=light" width="48" height="48" alt="TypeScript" title="TypeScript" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark" /><img src="https://skillicons.dev/icons?i=html&theme=light" width="48" height="48" alt="HTML" title="HTML" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=dark" /><img src="https://skillicons.dev/icons?i=css&theme=light" width="48" height="48" alt="CSS" title="CSS" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php&theme=dark" /><img src="https://skillicons.dev/icons?i=php&theme=light" width="48" height="48" alt="PHP" title="PHP" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=wordpress&theme=dark" /><img src="https://skillicons.dev/icons?i=wordpress&theme=light" width="48" height="48" alt="WordPress" title="WordPress" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark" /><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="48" height="48" alt="Node.js" title="Node.js" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><img src="https://skillicons.dev/icons?i=git&theme=light" width="48" height="48" alt="Git" title="Git" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><img src="https://skillicons.dev/icons?i=github&theme=light" width="48" height="48" alt="GitHub" title="GitHub" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><img src="https://skillicons.dev/icons?i=vscode&theme=light" width="48" height="48" alt="VS Code" title="VS Code" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma&theme=dark" /><img src="https://skillicons.dev/icons?i=figma&theme=light" width="48" height="48" alt="Figma" title="Figma" /></picture>
 
 </div>
 
