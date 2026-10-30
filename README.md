@@ -1,89 +1,94 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=250&section=header&text=Hi%20there,%20I'm%20Maraj!%20%E2%9C%A8&fontSize=55&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF" alt="Header" />
-</div>
 
-<div align="center">
-  <a href="https://github.com/marajanim">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Pixel-Perfect+UI%2FUX+Engineer+%F0%9F%8E%A8;React+%26+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;WordPress+Web+Designer+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:EC4899&height=230&section=header&text=Maraj%20Anim&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20UI%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" alt="Maraj Anim" width="100%" />
 
-<div align="center">
-  <p>Crafting modern web applications with seamless animations and robust backend architecture.</p>
-</div>
+<a href="https://github.com/marajanim">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=560&lines=Building+fast%2C+pixel-perfect+web+apps;React+%2B+Next.js+%2B+Vite;WordPress+themes+%26+plugins;Glassmorphism+%26+smooth+CSS+motion" alt="Typing SVG" />
+</a>
 
-<div align="center">
-  <a href="https://github.com/marajanim">
-    <img src="https://komarev.com/ghpvc/?username=marajanim&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
-  </a>
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Next.js, React, Vite, and WordPress Plugin Development**
-- 💅 I focus heavily on **Pixel-Perfect UI, Glassmorphism, and Complex CSS Animations**
-- 🌱 I’m currently learning deeper **Backend Architecture & System Design**
-- 💬 Ask me about **Frontend Optimization, Responsive Design, and UI Engineering**
-
-<div align="center">
-  <img src="https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake Animation" />
-</div>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Frontend:**
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=marajanim&label=Profile%20views&color=8B5CF6&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/marajanim?tab=followers"><img src="https://img.shields.io/github/followers/marajanim?label=Followers&style=flat-square&color=A855F7&logo=github" alt="Followers" /></a>
+  <a href="https://github.com/marajanim?tab=repositories"><img src="https://img.shields.io/badge/Open%20to-collaborate-EC4899?style=flat-square" alt="Open to collaborate" /></a>
 </p>
 
-**Backend & CMS:**
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+</div>
 
-**Tools:**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+<br />
 
----
+## ✦ About me
 
-### 📊 GitHub Stats
+<table>
+<tr>
+<td width="55%" valign="top">
+
+I craft modern web applications with seamless animations and solid backend architecture.
+
+- 🔭 Working on **Next.js, React, Vite** and **WordPress plugin development**
+- 🎨 Focused on **pixel-perfect UI, glassmorphism** and **complex CSS animations**
+- 🌱 Learning deeper **backend architecture & system design**
+- 💬 Ask me about **frontend optimization, responsive design** and **UI engineering**
+
+</td>
+<td width="45%" valign="top">
+
+```ts
+const maraj = {
+  role: "Full-Stack Web Developer",
+  frontend: ["Next.js", "React", "Vite"],
+  backend: ["PHP", "Node.js", "WordPress"],
+  focus: "Pixel-perfect UI & motion",
+  learning: "System design",
+};
+```
+
+</td>
+</tr>
+</table>
+
+## ✦ Tech stack
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=marajanim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=marajanim&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=8B5CF6&text_color=334155&ring_color=8B5CF6" alt="Maraj's GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marajanim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marajanim&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=8B5CF6&text_color=334155" alt="Maraj's Top Languages" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,vite,js,html,css,php,wordpress,nodejs&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,js,html,css,php,wordpress,nodejs&theme=light&perline=9" alt="Languages and frameworks" />
+</picture>
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light" alt="Tools" />
+</picture>
+
+</div>
+
+## ✦ GitHub stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=marajanim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A855F7&ring_color=A855F7&card_width=420" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marajanim&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=8B5CF6&text_color=334155&ring_color=8B5CF6&card_width=420" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marajanim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&card_width=320" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marajanim&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=334155&card_width=320" alt="Top languages" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=marajanim&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=C4B5FD" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marajanim&theme=default&hide_border=true&background=FFFFFF&ring=8B5CF6&fire=EC4899&currStreakLabel=7C3AED&currStreakNum=1E293B&sideNums=1E293B&sideLabels=334155&dates=64748B&stroke=E2E8F0" alt="GitHub streak" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=marajanim&bg_color=0D1117&color=C4B5FD&title_color=C4B5FD&line=A855F7&point=EC4899&area=true&area_color=A855F7&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marajanim&bg_color=FFFFFF&color=334155&title_color=7C3AED&line=8B5CF6&point=EC4899&area=true&area_color=C4B5FD&hide_border=true" alt="Contribution activity graph" width="100%" />
+</picture>
+
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=marajanim&theme=tokyonight&hide_border=true&background=0D1117" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=marajanim&theme=default&hide_border=true&background=FFFFFF&ring=8B5CF6&fire=8B5CF6&currStreakLabel=7C3AED&currStreakNum=1E293B&sideNums=1E293B&sideLabels=334155&dates=64748B&stroke=CBD5E1" alt="Maraj's GitHub Streak" />
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:7C3AED&height=110&section=footer" alt="" width="100%" />
 </div>
