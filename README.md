@@ -75,8 +75,8 @@ const maraj = {
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=marajanim&bg_color=0A0A0F&color=9CA3AF&title_color=F5F3FF&line=A855F7&point=EC4899&area=true&area_color=A855F7&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marajanim&bg_color=FAFAF7&color=4B5563&title_color=111114&line=8B5CF6&point=EC4899&area=true&area_color=C4B5FD&hide_border=true" alt="Contribution activity graph" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marajanim/marajanim/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/marajanim/marajanim/output/snake-light.svg" alt="Contribution snake" width="100%" />
 </picture>
 
 </div>
