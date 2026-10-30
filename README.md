@@ -1,39 +1,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-  <img src="./assets/hero-light.svg" alt="Maraj Anim — Full-stack web developer, UI and motion" width="100%" />
+  <img src="./assets/hero-light.svg" alt="Maraj Anim, web developer" width="100%" />
 </picture>
 
-<div align="center">
+### About
 
-<img src="https://komarev.com/ghpvc/?username=marajanim&label=Profile%20views&color=8B5CF6&style=flat-square" alt="Profile views" />
-<a href="https://github.com/marajanim?tab=followers"><img src="https://img.shields.io/github/followers/marajanim?label=Followers&style=flat-square&color=A855F7&logo=github" alt="Followers" /></a>
-
-</div>
+I'm a web developer. I build sites and apps with React, Next.js and Vite, and themes and plugins for WordPress. Most of my work is on the front end: layouts, responsive design and CSS animation. At the moment I'm learning more about back-end architecture and system design.
 
 <br />
 
-### 01 — About
-
-I craft modern web applications with seamless animations and solid backend architecture.
-
-- 🔭 Working on **Next.js, React, Vite** and **WordPress plugin development**
-- 🎨 Focused on **pixel-perfect UI, glassmorphism** and **complex CSS animations**
-- 🌱 Learning deeper **backend architecture & system design**
-- 💬 Ask me about **frontend optimization, responsive design** and **UI engineering**
-
-```ts
-const maraj = {
-  role: "Full-Stack Web Developer",
-  frontend: ["Next.js", "React", "Vite"],
-  backend: ["PHP", "Node.js", "WordPress"],
-  focus: "Pixel-perfect UI & motion",
-  learning: "System design",
-};
-```
-
-<br />
-
-### 02 — Stack
+### Stack
 
 <div align="center">
 
@@ -56,7 +32,7 @@ const maraj = {
 
 <br />
 
-### 03 — Numbers
+### GitHub
 
 <div align="center">
 
@@ -83,7 +59,9 @@ const maraj = {
 
 <br />
 
+<a href="https://maraj.net">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
-  <img src="./assets/footer-light.svg" alt="Let's build something." width="100%" />
+  <img src="./assets/footer-light.svg" alt="Contact: maraj.net, linkedin.com/in/marajanim" width="100%" />
 </picture>
+</a>

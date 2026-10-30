@@ -35,7 +35,7 @@
 
   <g class="t rev" font-size="13" font-weight="600" letter-spacing="2.5" fill="#9CA3AF">
     <text x="60" y="58">MARAJANIM — ©2026</text>
-    <text x="1140" y="58" text-anchor="end">FULL-STACK · UI · MOTION</text>
+    <text x="1140" y="58" text-anchor="end">WEB DEVELOPER</text>
   </g>
   <line x1="60" y1="80" x2="1140" y2="80" stroke="#27272A"/>
 
@@ -43,18 +43,18 @@
   <text class="t big rev d2" x="52" y="345" fill="url(#g)">Anim.</text>
 
   <g class="t rev d3" font-size="19" fill="#F5F3FF">
-    <text x="760" y="268">I build fast, pixel-perfect web apps</text>
-    <text x="760" y="296">with motion that feels just right.</text>
+    <text x="760" y="268">I build websites and web apps</text>
+    <text x="760" y="296">with React, Next.js and WordPress.</text>
   </g>
   <g class="t rev d4" font-size="13" font-weight="600" letter-spacing="2" fill="#9CA3AF">
-    <text x="760" y="334">REACT / NEXT.JS / WORDPRESS</text>
+    <text x="760" y="334">MARAJ.NET</text>
   </g>
 
   <rect y="380" width="1200" height="60" fill="#111118"/>
   <line x1="0" y1="380" x2="1200" y2="380" stroke="#27272A"/>
   <g class="mq">
-    <text class="t" x="0" y="418" font-size="20" font-weight="600" fill="#F5F3FF" xml:space="preserve" textLength="2400" lengthAdjust="spacing">Next.js   /   React   /   Vite   /   TypeScript   /   WordPress   /   PHP   /   Node.js   /   UI Engineering   /   Motion   /   Glassmorphism   /   Next.js   /   React   /   Vite   /   TypeScript   /   WordPress   /   PHP   /   Node.js   /   UI Engineering   /   Motion   /   Glassmorphism   /   </text>
-    <text class="t" x="2400" y="418" font-size="20" font-weight="600" fill="#F5F3FF" xml:space="preserve" textLength="2400" lengthAdjust="spacing">Next.js   /   React   /   Vite   /   TypeScript   /   WordPress   /   PHP   /   Node.js   /   UI Engineering   /   Motion   /   Glassmorphism   /   Next.js   /   React   /   Vite   /   TypeScript   /   WordPress   /   PHP   /   Node.js   /   UI Engineering   /   Motion   /   Glassmorphism   /   </text>
+    <text class="t" x="0" y="418" font-size="20" font-weight="600" fill="#F5F3FF" xml:space="preserve" textLength="2400" lengthAdjust="spacing">Next.js   /   React   /   Vite   /   TypeScript   /   JavaScript   /   WordPress   /   PHP   /   Node.js   /   HTML   /   CSS   /   Next.js   /   React   /   Vite   /   TypeScript   /   JavaScript   /   WordPress   /   PHP   /   Node.js   /   HTML   /   CSS   /   </text>
+    <text class="t" x="2400" y="418" font-size="20" font-weight="600" fill="#F5F3FF" xml:space="preserve" textLength="2400" lengthAdjust="spacing">Next.js   /   React   /   Vite   /   TypeScript   /   JavaScript   /   WordPress   /   PHP   /   Node.js   /   HTML   /   CSS   /   Next.js   /   React   /   Vite   /   TypeScript   /   JavaScript   /   WordPress   /   PHP   /   Node.js   /   HTML   /   CSS   /   </text>
   </g>
 </g>
 </svg>
