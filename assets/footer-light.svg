@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7C3AED"/><stop offset=".55" stop-color="#C026D3"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+<clipPath id="c"><rect width="1200" height="170" rx="20"/></clipPath></defs>
+<style>.t{font-family:Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif} .r{opacity:0;animation:u 1s cubic-bezier(.2,.8,.2,1) .2s forwards} @keyframes u{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
+.a{animation:s 2.4s ease-in-out infinite} @keyframes s{50%{transform:translateX(10px)}}</style>
+<g clip-path="url(#c)"><rect width="1200" height="170" fill="#FAFAF7"/>
+<g class="r"><text class="t" x="60" y="98" font-size="60" font-weight="800" letter-spacing="-2.5" fill="#111114">Let’s build <tspan fill="url(#g)">something.</tspan></text></g>
+<g class="a"><text class="t" x="1140" y="96" text-anchor="end" font-size="44" font-weight="300" fill="url(#g)">→</text></g>
+<line x1="60" y1="126" x2="1140" y2="126" stroke="#E5E5E0"/>
+<text class="t" x="60" y="152" font-size="12" font-weight="600" letter-spacing="2.5" fill="#6B7280">GITHUB.COM/MARAJANIM</text>
+<text class="t" x="1140" y="152" text-anchor="end" font-size="12" font-weight="600" letter-spacing="2.5" fill="#6B7280">THANKS FOR SCROLLING</text>
+</g></svg>

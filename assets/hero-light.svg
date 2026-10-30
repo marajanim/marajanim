@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
+<defs>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7C3AED"/><stop offset="0.55" stop-color="#C026D3"/><stop offset="1" stop-color="#EC4899"/>
+  </linearGradient>
+  <clipPath id="c"><rect width="1200" height="440" rx="20"/></clipPath>
+</defs>
+<style>
+  .t{font-family:Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+  .big{font-size:150px;font-weight:800;letter-spacing:-7px;}
+  .rev{opacity:0;animation:up 1.1s cubic-bezier(.2,.8,.2,1) forwards;}
+  .d1{animation-delay:.15s} .d2{animation-delay:.35s} .d3{animation-delay:.7s} .d4{animation-delay:.9s}
+  @keyframes up{from{opacity:0;transform:translateY(40px)}to{opacity:1;transform:translateY(0)}}
+  .b1{animation:f1 14s ease-in-out infinite alternate}
+  .b2{animation:f2 18s ease-in-out infinite alternate}
+  .b3{animation:f3 16s ease-in-out infinite alternate}
+  @keyframes f1{to{transform:translate(180px,60px)}}
+  @keyframes f2{to{transform:translate(-220px,-40px)}}
+  @keyframes f3{to{transform:translate(120px,-70px)}}
+  .mq{animation:mq 32s linear infinite}
+  @keyframes mq{to{transform:translateX(-2400px)}}
+  .dot{animation:pulse 2s ease-in-out infinite}
+  @keyframes pulse{50%{opacity:.25}}
+</style>
+<g clip-path="url(#c)">
+  <rect width="1200" height="440" fill="#FAFAF7"/>
+  <g filter="url(#blur)" opacity="0.75">
+    <circle class="b1" cx="820" cy="120" r="170" fill="#C4B5FD"/>
+    <circle class="b2" cx="1060" cy="260" r="150" fill="#F9A8D4"/>
+    <circle class="b3" cx="640" cy="300" r="120" fill="#A5B4FC"/>
+  </g>
+  <rect width="1200" height="440" filter="url(#grain)" opacity="0.05"/>
+
+  <g class="t rev" font-size="13" font-weight="600" letter-spacing="2.5" fill="#6B7280">
+    <text x="60" y="58">MARAJANIM — ©2026</text>
+    <text x="1140" y="58" text-anchor="end">FULL-STACK · UI · MOTION</text>
+  </g>
+  <line x1="60" y1="80" x2="1140" y2="80" stroke="#E5E5E0"/>
+
+  <text class="t big rev d1" x="52" y="215" fill="#111114">Maraj</text>
+  <text class="t big rev d2" x="52" y="345" fill="url(#g)">Anim.</text>
+
+  <g class="t rev d3" font-size="19" fill="#111114">
+    <text x="760" y="268">I build fast, pixel-perfect web apps</text>
+    <text x="760" y="296">with motion that feels just right.</text>
+  </g>
+  <g class="t rev d4" font-size="13" font-weight="600" letter-spacing="2" fill="#6B7280">
+    <text x="760" y="334">REACT / NEXT.JS / WORDPRESS</text>
+  </g>
+
+  <rect y="380" width="1200" height="60" fill="#F1F0EC"/>
+  <line x1="0" y1="380" x2="1200" y2="380" stroke="#E5E5E0"/>
+  <g class="mq">
+    <text class="t" x="0" y="418" font-size="20" font-weight="600" fill="#111114" xml:space="preserve" textLength="2400" lengthAdjust="spacing">Next.js   /   React   /   Vite   /   TypeScript   /   WordPress   /   PHP   /   Node.js   /   UI Engineering   /   Motion   /   Glassmorphism   /   Next.js   /   React   /   Vite   /   TypeScript   /   WordPress   /   PHP   /   Node.js   /   UI Engineering   /   Motion   /   Glassmorphism   /   </text>
+    <text class="t" x="2400" y="418" font-size="20" font-weight="600" fill="#111114" xml:space="preserve" textLength="2400" lengthAdjust="spacing">Next.js   /   React   /   Vite   /   TypeScript   /   WordPress   /   PHP   /   Node.js   /   UI Engineering   /   Motion   /   Glassmorphism   /   Next.js   /   React   /   Vite   /   TypeScript   /   WordPress   /   PHP   /   Node.js   /   UI Engineering   /   Motion   /   Glassmorphism   /   </text>
+  </g>
+</g>
+</svg>
